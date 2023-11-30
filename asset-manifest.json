@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/doka-development-project/static/css/main.e6c13ad2.css",
+    "main.js": "/doka-development-project/static/js/main.c013e73b.js",
+    "index.html": "/doka-development-project/index.html",
+    "main.e6c13ad2.css.map": "/doka-development-project/static/css/main.e6c13ad2.css.map",
+    "main.c013e73b.js.map": "/doka-development-project/static/js/main.c013e73b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c013e73b.js"
+  ]
+}
